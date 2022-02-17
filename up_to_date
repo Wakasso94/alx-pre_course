@@ -1,1 +1,4 @@
-git pull
+git checkout master
+git fetch alx
+git pull alx master
+git push alx master
