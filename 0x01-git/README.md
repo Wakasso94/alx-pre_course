@@ -1,2 +1,2 @@
-Welcome in ALX Africa
-Alx build the new generation
+#Welcome in ALX Africa
+##Alx build the new generation
